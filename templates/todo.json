@@ -5,28 +5,28 @@
       "title": "Les gjennom kapittel 3 i pensumboka",
       "completed": false,
       "priority": "high",
-      "createdAt": "2026-05-04T08:00:00"
+      "created": "2026-05-04T08:00:00"
     },
     {
       "id": 2,
       "title": "Fullfør TypeScript-oppgaven",
       "completed": true,
       "priority": "high",
-      "createdAt": "2026-05-04T09:15:00"
+      "created": "2026-05-04T09:15:00"
     },
     {
       "id": 3,
       "title": "Bestill flybilletter til sommeren",
       "completed": false,
       "priority": "medium",
-      "createdAt": "2026-05-04T10:00:00"
+      "created": "2026-05-04T10:00:00"
     },
     {
       "id": 4,
       "title": "Kjøp melk og brød",
       "completed": false,
       "priority": "low",
-      "createdAt": "2026-05-04T11:30:00"
+      "created": "2026-05-04T11:30:00"
     }
   ]
 }
